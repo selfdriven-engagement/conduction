@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Constitution - Cooperative Governance - selfdriven Foundation
 permalink: /coop/constitution
 ---

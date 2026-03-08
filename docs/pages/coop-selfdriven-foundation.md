@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Cooperative Governance - selfdriven Foundation
 permalink: /cooperative
 ---

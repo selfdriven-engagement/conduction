@@ -1,6 +1,6 @@
 ---
-layout: default
-title: DEC2025 - Updates - selfdriven Gov
+layout: selfdriven
+title: DEC2025 - Updates - selfdriven Conduction
 permalink: /updates/dec2025/
 description: "DEC2025 - selfdriven Gov - Updates"
 ---

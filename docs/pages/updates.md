@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Updates - selfdriven Gov
+layout: selfdriven
+title: Updates - selfdriven Conduction
 permalink: /updates
 description: "selfdriven Gov - Updates"
 ---

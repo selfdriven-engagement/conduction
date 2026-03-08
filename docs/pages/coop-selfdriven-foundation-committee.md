@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Committee Template - Cooperative Governance - selfdriven Foundation
 permalink: /coop/templates/committee
 ---

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Home
+layout: selfdriven
+title: selfdriven Foundation Conduction
 ---
 
 ## selfdriven Foundation Governance

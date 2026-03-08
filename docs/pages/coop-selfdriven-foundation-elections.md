@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Elections - Cooperative Governance - selfdriven Foundation
 permalink: /coop/elections
 ---

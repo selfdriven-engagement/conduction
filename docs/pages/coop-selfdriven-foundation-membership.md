@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Membership - Cooperative Governance - selfdriven Foundation
 permalink: /coop/membership
 ---

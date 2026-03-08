@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: ByLaws - Cooperative Governance - selfdriven Foundation
 permalink: /coop/bylaws
 ---

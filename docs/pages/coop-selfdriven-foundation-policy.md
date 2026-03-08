@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Policy - Cooperative Governance - selfdriven Foundation
 permalink: /coop/policy
 ---
