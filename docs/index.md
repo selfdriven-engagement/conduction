@@ -3,11 +3,12 @@ layout: selfdriven
 title: selfdriven Foundation Conduction
 ---
 
-## selfdriven Foundation Governance
+## selfdriven Foundation Conduction
 
 - [Roadmap](/roadmap/)
 - [Updates](/updates)
 - [Co-Operative](/cooperative)
+- [Conduction Actuation](/actuation)
 
 ### References
 
