@@ -8,7 +8,7 @@ permalink: /actuation
 
 Using the [selfdriven Areas of Focus Framework](https://actuate.selfdriven.community/framework/areas-of-focus).
 
-*A strategic and operational plan for governing, enabling, and sustaining community self-actuation across the selfdriven ecosystem.*
+**A strategic and operational plan for governing, enabling, and sustaining the [selfdriven Foundation](https://selfdriven.foundation).*
 
 # Executive Summary
 
