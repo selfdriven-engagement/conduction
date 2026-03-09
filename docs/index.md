@@ -3,14 +3,14 @@ layout: selfdriven
 title: selfdriven Foundation Conduction
 ---
 
-## selfdriven Foundation Conduction
+# selfdriven Foundation Conduction
 
+- [Actuation](/actuation)
+- [Co-Operative](/cooperative)
 - [Roadmap](/roadmap/)
 - [Updates](/updates)
-- [Co-Operative](/cooperative)
-- [Conduction Actuation](/actuation)
 
-### References
+## References
 
 - [More about Governance](https://selfdriven.fyi/governance)
 - [Community](https://selfdriven.fyi/community)
@@ -18,7 +18,7 @@ title: selfdriven Foundation Conduction
 - [Tokenomics](https://selfdriven.fyi/tokenomics)
 - [Organisation](https://selfdriven.fyi/organisation)
 
-### Related
+## Related
 
 - [octomics.io](https://www.octomics.io)
 - [resources.selfdriven.foundation](https://resources.selfdriven.foundation)
