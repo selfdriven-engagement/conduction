@@ -10,8 +10,6 @@ Using the [selfdriven Areas of Focus Framework](https://actuate.selfdriven.commu
 
 *A strategic and operational plan for governing, enabling, and sustaining community self-actuation across the selfdriven ecosystem.*
 
-https://selfdriven.foundation
-
 # Executive Summary
 
 The selfdriven Foundation exists to help communities self-actuate — building the governance structures, identity infrastructure, and operational frameworks that enable individuals and organisations to take sovereign control of their growth, credentials, and collective direction.
@@ -412,3 +410,7 @@ Core protocols: KERI (Key Event Receipt Infrastructure), ACDC (Authentic Chained
 | Owner | selfdriven Foundation |
 | Licence | CC0 Public Domain |
 | Review Cycle | Quarterly (operational), Annual (strategic) |
+
+----
+
+- [selfdriven.foundation](https://selfdriven.foundation)
