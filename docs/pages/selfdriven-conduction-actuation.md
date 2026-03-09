@@ -1,10 +1,8 @@
-
 ---
 layout: selfdriven
 title: Conduction Actuation - selfdriven Foundation
 permalink: /actuation
 ---
-
 
 ## selfdriven Foundation Conduction Actuation
 
